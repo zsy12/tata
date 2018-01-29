@@ -27,3 +27,6 @@ div.content div h2{
 div.content div p{
 	padding:0px 40px;
 }
+div.content div img{
+	max-width: 98%;
+}
